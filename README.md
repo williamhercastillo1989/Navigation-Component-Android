@@ -22,5 +22,4 @@ Contenido del vídeo:
 Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena de múltiples formas.
 
 - Dale a FAV al proyecto (Star)
-- Sígueme en mis [redes sociales](https://aristi.dev)
-- Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
+
