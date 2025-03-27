@@ -16,7 +16,7 @@ class SecondFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         val name = args.name
         val tvName = view.findViewById<TextView>(R.id.tvName)
-        tvName.textSSS = name
+        tvName.text = name
     }
 
     override fun onCreateView(
