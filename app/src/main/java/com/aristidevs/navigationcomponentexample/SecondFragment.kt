@@ -1,7 +1,6 @@
 package com.aristidevs.navigationcomponentexample
 
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -17,7 +16,7 @@ class SecondFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         val name = args.name
         val tvName = view.findViewById<TextView>(R.id.tvName)
-        tvName.text = name
+        tvName.textSSS = name
     }
 
     override fun onCreateView(
